@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * Exploitation Tools
 * Forensics Tools
-* Wireless Attacks
 * Information Gathering
 * Web Applications
 * Stress Testing
@@ -12,5 +11,6 @@
 * Maintaining Access
 * Reverse Engineering
 * Reporting Tools
+* Wireless Attacks
 * Hardware Hacking
 
