@@ -7,8 +7,8 @@
 * Information Gathering
 * Stress Testing
 * Sniffing & Spoofing
-* Password Attacks
 * Maintaining Access
+* Password Attacks
 * Reverse Engineering
 * Reporting Tools
 * Web Applications
