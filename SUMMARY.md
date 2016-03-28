@@ -2,7 +2,7 @@
 
 * Exploitation Tools
 * Forensics Tools
-* Vulnerability Analysis
+* Forensics Tools
 * Wireless Attacks
 * Information Gathering
 * Web Applications
