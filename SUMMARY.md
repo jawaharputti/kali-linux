@@ -1,8 +1,8 @@
 # Summary
 
-* Information Gathering
 * Vulnerability Analysis
 * Wireless Attacks
+* Information Gathering
 * Web Applications
 * Exploitation Tools
 * Forensics Tools
