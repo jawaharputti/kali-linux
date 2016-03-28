@@ -12,4 +12,5 @@
 * Maintaining Access
 * Reverse Engineering
 * Reporting Tools
+* Hardware Hacking
 
