@@ -7,4 +7,5 @@
 * Exploitation Tools
 * Forensics Tools
 * Stress Testing
+* Sniffing & Spoofing
 
