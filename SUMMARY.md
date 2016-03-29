@@ -23,7 +23,7 @@
    * [SET](2. Exploitation Tools/SET.md)
    * [ShellNoob](2. Exploitation Tools/ShellNoob.md)
    * [sqlmap](2. Exploitation Tools/SQLmap.md)
-   * THC-IPV6
+   * [THC-IPV6](2. Exploitation Tools/THC-ipv6.md)
    * Yersinia
 * Forensics Tools
 * Hardware Hacking
