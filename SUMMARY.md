@@ -12,6 +12,7 @@
    * Backdoor Factory
    * BeEF
    * cisco-auditing-tool
+   * cisco-global-exploiter
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
