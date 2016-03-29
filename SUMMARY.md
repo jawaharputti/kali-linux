@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [Introduction](Introduction/Introduction.md)
-   * Structure of the Book
+   * [Structure of the Book](Introduction/Structure_of_the_book.md)
    * Hands-on Experiments
    * Topics Not Covered
    * Acknowledgments
