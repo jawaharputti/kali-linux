@@ -8,7 +8,7 @@
    * [Acknowledgments](1. Introduction/Acknowledgments.md)
    * [Useful Links](1. Introduction/Useful_Links.md)
 * [Exploitation Tools](Exploitation Tools)
-   * [Armitage](Exploitation Tools/Armitage.md)
+   * [Armitage](2. Exploitation Tools/Armitage.md)
    * [Backdoor Factory](Exploitation Tools/Backdoor_Factory.md)
    * [BeEF](Exploitation Tools/BeEF.md)
    * [cisco-auditing-tool](Exploitation Tools/cisco-auditing-tool.md)
