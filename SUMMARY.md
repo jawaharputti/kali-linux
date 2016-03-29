@@ -20,6 +20,7 @@
    * jboss-autopwn
    * Linux Exploit Suggester
    * Maltego Teeth
+   * SET
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
