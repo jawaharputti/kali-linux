@@ -5,6 +5,7 @@
    * Structure of the Book
    * Hands-on Experiments
    * Topics Not Covered
+   * Acknowledgments
 * [Introduction](Introduction.md)
 * Exploitation Tools
 * Forensics Tools
