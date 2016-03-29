@@ -16,7 +16,7 @@
    * [cisco-ocs](2. Exploitation Tools/Cisco-OCS.md)
    * [cisco-torch](2. Exploitation Tools/Cisco-Torch.md)
    * [Commix](2. Exploitation Tools/Commix.md)
-   * crackle
+   * [crackle](2. Exploitation Tools/Crackle.md)
    * jboss-autopwn
    * Linux Exploit Suggester
    * Maltego Teeth
