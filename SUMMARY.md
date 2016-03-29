@@ -21,6 +21,7 @@
    * Linux Exploit Suggester
    * Maltego Teeth
    * SET
+   * ShellNoob
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
