@@ -14,7 +14,7 @@
    * [cisco-auditing-tool](2. Exploitation Tools/Cisco-Auditing-Tool.md)
    * [cisco-global-exploiter](2. Exploitation Tools/Cisco-Global-Exploiter.md)
    * [cisco-ocs](2. Exploitation Tools/Cisco-OCS.md)
-   * [cisco-torch](Exploitation Tools/Cisco-Torch.md)
+   * [cisco-torch](2. Exploitation Tools/Cisco-Torch.md)
    * Commix
    * crackle
    * jboss-autopwn
