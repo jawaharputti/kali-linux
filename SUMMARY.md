@@ -13,7 +13,7 @@
    * [BeEF](Exploitation Tools/BeEF.md)
    * [cisco-auditing-tool](Exploitation Tools/cisco-auditing-tool.md)
    * [cisco-global-exploiter](Exploitation Tools/Cisco-Global-Exploiter.md)
-   * cisco-ocs
+   * [cisco-ocs](Exploitation Tools/Cisco-ocs.md)
    * cisco-torch
    * Commix
    * crackle
