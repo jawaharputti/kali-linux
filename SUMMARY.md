@@ -49,12 +49,12 @@
    * [Volatility](3. Forensics Tools/Volatility.md)
    * [Xplico](3. Forensics Tools/Xplico.md)
 * Hardware Hacking
-   * android-sdk
-   * apktool
-   * Arduino
-   * dex2jar
-   * Sakis3G
-   * smali
+   * [android-sdk](4. Hardware Hacking/Android-SDK.md)
+   * [apktool](4. Hardware Hacking/ApkTool.md)
+   * [Arduino](4. Hardware Hacking/Arduino.md)
+   * [dex2jar](4. Hardware Hacking/Dex2Jar.md)
+   * [Sakis3G](4. Hardware Hacking/Sakis3G.md)
+   * [smali](4. Hardware Hacking/Smali.md)
 * Information Gathering
    * acccheck
    * ace-voip
