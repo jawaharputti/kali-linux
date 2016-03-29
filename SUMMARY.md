@@ -43,6 +43,7 @@
    * iPhone Backup Analyzer
    * p0f
    * pdf-parser
+   * pdfid
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
