@@ -19,6 +19,7 @@
    * crackle
    * jboss-autopwn
    * Linux Exploit Suggester
+   * Maltego Teeth
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
