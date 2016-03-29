@@ -6,7 +6,7 @@
    * Hands-on Experiments
    * [Topics Not Covered](1. Introduction/Topics_not_covered.md)
    * [Acknowledgments](1. Introduction/Acknowledgments.md)
-   * [Useful Links](Introduction/Useful_Links.md)
+   * [Useful Links](1. Introduction/Useful_Links.md)
 * [Exploitation Tools](Exploitation Tools)
    * [Armitage](Exploitation Tools/Armitage.md)
    * [Backdoor Factory](Exploitation Tools/Backdoor_Factory.md)
