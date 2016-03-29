@@ -21,7 +21,7 @@
    * [Linux Exploit Suggester](2. Exploitation Tools/Linux_Exploit_Suggester.md)
    * [Maltego Teeth](2. Exploitation Tools/Maltego_Teeth.md)
    * [SET](2. Exploitation Tools/SET.md)
-   * ShellNoob
+   * [ShellNoob](2. Exploitation Tools/ShellNoob.md)
    * sqlmap
    * THC-IPV6
    * Yersinia
