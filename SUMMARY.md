@@ -116,11 +116,11 @@
 * Maintaining Access
    * [CryptCat](6. Maintaining Access/CryptCat.md)
    * [Cymothoa](6. Maintaining Access/Cymothoa.md)
-   * [dbd](6. Maintaining Access/dbd].md)
+   * [dbd](6. Maintaining Access/dbd.md)
    * [dns2tcp](6. Maintaining Access/dns2tcp.md)
    * [http-tunnel](6. Maintaining Access/http-tunnel.md)
    * [HTTPTunnel](6. Maintaining Access/HTTPTunnel.md)
-   * [Intersect](6. Maintaining Access/Intersect].md)
+   * [Intersect](6. Maintaining Access/Intersect.md)
    * [Nishang](6. Maintaining Access/Nishang.md)
    * [polenum](6. Maintaining Access/polenum.md)
    * [PowerSploit](6. Maintaining Access/PowerSploit.md)
