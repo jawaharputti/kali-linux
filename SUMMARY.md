@@ -33,6 +33,7 @@
    * Cuckoo
    * dc3dd
    * ddrescue
+   * DFF
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
