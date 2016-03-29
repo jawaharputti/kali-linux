@@ -18,7 +18,7 @@
    * [Commix](2. Exploitation Tools/Commix.md)
    * [crackle](2. Exploitation Tools/Crackle.md)
    * [jboss-autopwn](2. Exploitation Tools/JBoss-Autopwn.md)
-   * Linux Exploit Suggester
+   * [Linux Exploit Suggester](2. Exploitation Tools/Linux_Exploit_Suggester.md)
    * Maltego Teeth
    * SET
    * ShellNoob
