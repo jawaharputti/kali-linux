@@ -42,6 +42,7 @@
    * Guymager
    * iPhone Backup Analyzer
    * p0f
+   * pdf-parser
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
