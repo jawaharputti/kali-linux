@@ -15,7 +15,7 @@
    * [cisco-global-exploiter](2. Exploitation Tools/Cisco-Global-Exploiter.md)
    * [cisco-ocs](2. Exploitation Tools/Cisco-OCS.md)
    * [cisco-torch](2. Exploitation Tools/Cisco-Torch.md)
-   * Commix
+   * [Commix](2. Exploitation Tools/Commix.md)
    * crackle
    * jboss-autopwn
    * Linux Exploit Suggester
