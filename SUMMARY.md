@@ -26,6 +26,7 @@
    * [THC-IPV6](2. Exploitation Tools/THC-ipv6.md)
    * [Yersinia](2. Exploitation Tools/Yersinia.md)
 * Forensics Tools
+   * Binwalk
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
