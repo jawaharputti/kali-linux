@@ -10,6 +10,8 @@
 * Exploitation Tools
    * Armitage
    * Backdoor Factory
+   * BeEF
+   * cisco-auditing-tool
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
