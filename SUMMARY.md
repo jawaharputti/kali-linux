@@ -23,6 +23,7 @@
    * SET
    * ShellNoob
    * sqlmap
+   * THC-IPV6
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
