@@ -44,6 +44,7 @@
    * p0f
    * pdf-parser
    * pdfid
+   * pdgmail
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
