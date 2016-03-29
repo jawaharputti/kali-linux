@@ -17,6 +17,7 @@
    * cisco-torch
    * Commix
    * crackle
+   * jboss-autopwn
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
