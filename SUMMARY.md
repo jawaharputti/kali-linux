@@ -45,6 +45,7 @@
    * pdf-parser
    * pdfid
    * peepdf
+   * RegRipper
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
