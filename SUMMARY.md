@@ -114,23 +114,23 @@
    * [WOL-E](5. Information Gathering/WOL-E.md)
    * [Xplico](5. Information Gathering/Xplico.md)
 * Maintaining Access
-   * CryptCat
-   * Cymothoa
-   * dbd
-   * dns2tcp
-   * http-tunnel
-   * HTTPTunnel
-   * Intersect
-   * Nishang
-   * polenum
-   * PowerSploit
-   * pwnat
-   * RidEnum
-   * sbd
-   * U3-Pwn
-   * Webshells
-   * Weevely
-   * Winexe
+   * [CryptCat](6. Maintaining Access/CryptCat.md)
+   * [Cymothoa](6. Maintaining Access/Cymothoa.md)
+   * [dbd](6. Maintaining Access/dbd].md)
+   * [dns2tcp](6. Maintaining Access/dns2tcp.md)
+   * [http-tunnel](6. Maintaining Access/http-tunnel.md)
+   * [HTTPTunnel](6. Maintaining Access/HTTPTunnel.md)
+   * [Intersect](6. Maintaining Access/Intersect].md)
+   * [Nishang](6. Maintaining Access/Nishang.md)
+   * [polenum](6. Maintaining Access/polenum.md)
+   * [PowerSploit](6. Maintaining Access/PowerSploit.md)
+   * [pwnat](6. Maintaining Access/pwnat.md)
+   * [RidEnum](6. Maintaining Access/RidEnum.md)
+   * [sbd](6. Maintaining Access/sbd.md)
+   * [U3-Pwn](6. Maintaining Access/U3-Pwn.md)
+   * [Webshells](6. Maintaining Access/Webshells.md)
+   * [Weevely](6. Maintaining Access/Weevely.md)
+   * [Winexe](6. Maintaining Access/Winexe.md)
 * Password Attacks
    * acccheck
    * Burp Suite
