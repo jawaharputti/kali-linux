@@ -16,6 +16,7 @@
    * cisco-ocs
    * cisco-torch
    * Commix
+   * crackle
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
