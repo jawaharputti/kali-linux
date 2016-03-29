@@ -41,6 +41,7 @@
    * Galleta
    * Guymager
    * iPhone Backup Analyzer
+   * p0f
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
