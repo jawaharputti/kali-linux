@@ -29,6 +29,7 @@
    * Binwalk
    * bulk-extractor
    * Capstone
+   * chntpw
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
