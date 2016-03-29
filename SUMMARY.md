@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * Structure of the Book
-       * Introduction
    * Hands-on Experiments
    * Topics Not Covered
    * Acknowledgments
