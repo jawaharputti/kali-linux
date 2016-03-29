@@ -32,6 +32,7 @@
    * chntpw
    * Cuckoo
    * dc3dd
+   * ddrescue
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
