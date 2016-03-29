@@ -40,6 +40,7 @@
    * Foremost
    * Galleta
    * Guymager
+   * iPhone Backup Analyzer
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
