@@ -1,11 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
+   * Introduction
    * Structure of the Book
    * Hands-on Experiments
    * Topics Not Covered
    * Acknowledgments
-   * Introduction
+   * Useful Links
 * Exploitation Tools
 * Forensics Tools
 * Hardware Hacking
