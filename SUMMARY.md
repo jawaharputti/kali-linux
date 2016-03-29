@@ -37,6 +37,7 @@
    * diStorm3
    * Dumpzilla
    * extundelete
+   * Foremost
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
