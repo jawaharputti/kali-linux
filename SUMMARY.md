@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Introduction](Introduction/Introduction.md)
+   * [Introduction](1. Introduction/Introduction.md)
    * [Structure of the Book](Introduction/Structure_of_the_book.md)
    * Hands-on Experiments
    * [Topics Not Covered](Introduction/Topics_Not_Covered.md)
