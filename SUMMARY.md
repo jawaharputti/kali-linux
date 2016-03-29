@@ -47,6 +47,7 @@
    * peepdf
    * RegRipper
    * Volatility
+   * Xplico
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
