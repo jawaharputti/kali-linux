@@ -34,6 +34,7 @@
    * dc3dd
    * ddrescue
    * DFF
+   * diStorm3
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
