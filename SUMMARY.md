@@ -11,7 +11,7 @@
    * [Armitage](Exploitation Tools/Armitage.md)
    * [Backdoor Factory](Exploitation Tools/Backdoor_Factory.md)
    * [BeEF](Exploitation Tools/BeEF.md)
-   * cisco-auditing-tool
+   * [cisco-auditing-tool](Exploitation Tools/cisco-auditing-tool.md)
    * cisco-global-exploiter
    * cisco-ocs
    * cisco-torch
