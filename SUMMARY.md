@@ -46,6 +46,7 @@
    * pdfid
    * peepdf
    * RegRipper
+   * Volatility
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
