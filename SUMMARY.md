@@ -8,6 +8,7 @@
    * [Acknowledgments](Introduction/Acknowledgments.md)
    * [Useful Links](Introduction/Useful_Links.md)
 * Exploitation Tools
+   * Armitage
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
