@@ -31,6 +31,7 @@
    * Capstone
    * chntpw
    * Cuckoo
+   * dc3dd
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
