@@ -149,7 +149,7 @@
    * [John the Ripper](7. Password Attacks/John_the_Ripper.md)
    * [Johnny](7. Password Attacks/Johnny.md)
    * [keimpx](7. Password Attacks/keimpx.md)
-   * [Maltego Teeth](7. Password Attacks/Maltego Teeth.md)
+   * [Maltego Teeth](7. Password Attacks/Maltego_Teeth.md)
    * [Maskprocessor](7. Password Attacks/Maskprocessor.md)
    * [multiforcer](7. Password Attacks/multiforcer.md)
    * [Ncrack](7. Password Attacks/Ncrack.md)
@@ -169,15 +169,15 @@
    * [wordlists](7. Password Attacks/wordlists.md)
    * [zaproxy](7. Password Attacks/zaproxy.md)
 * Reporting Tools
-   * CaseFile
-   * CutyCapt
-   * dos2unix
-   * Dradis
-   * KeepNote
-   * MagicTree
-   * Metagoofil
-   * Nipper-ng
-   * pipal
+   * [CaseFile](8. Reporting Tools/CaseFile.md)
+   * [CutyCapt](8. Reporting Tools/CutyCapt.md)
+   * [dos2unix](8. Reporting Tools/dos2unix.md)
+   * [Dradis](8. Reporting Tools/Dradis.md)
+   * [KeepNote](8. Reporting Tools/KeepNote.md)
+   * [MagicTree](8. Reporting Tools/MagicTree.md)
+   * [Metagoofil](8. Reporting Tools/Metagoofil.md)
+   * [Nipper-ng](8. Reporting Tools/Nipper-ng.md)
+   * [pipal](8. Reporting Tools/pipal.md)
 * Reverse Engineering
    * apktool
    * dex2jar
