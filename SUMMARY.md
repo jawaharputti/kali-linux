@@ -22,6 +22,7 @@
    * Maltego Teeth
    * SET
    * ShellNoob
+   * sqlmap
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
