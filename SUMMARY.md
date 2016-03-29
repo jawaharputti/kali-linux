@@ -28,6 +28,7 @@
 * Forensics Tools
    * Binwalk
    * bulk-extractor
+   * Capstone
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
