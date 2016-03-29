@@ -35,6 +35,7 @@
    * ddrescue
    * DFF
    * diStorm3
+   * Dumpzilla
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
