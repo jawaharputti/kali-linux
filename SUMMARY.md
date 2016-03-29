@@ -1,7 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
+   * Introduction
 * [Introduction](Introduction.md)
-* 
 * Exploitation Tools
 * Forensics Tools
 * Hardware Hacking
