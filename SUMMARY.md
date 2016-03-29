@@ -30,6 +30,7 @@
    * bulk-extractor
    * Capstone
    * chntpw
+   * Cuckoo
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
