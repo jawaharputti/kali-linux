@@ -14,6 +14,7 @@
    * cisco-auditing-tool
    * cisco-global-exploiter
    * cisco-ocs
+   * cisco-torch
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
