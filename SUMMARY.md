@@ -179,17 +179,17 @@
    * [Nipper-ng](8. Reporting Tools/Nipper-ng.md)
    * [pipal](8. Reporting Tools/pipal.md)
 * Reverse Engineering
-   * apktool
-   * dex2jar
-   * diStorm3
-   * edb-debugger
-   * jad
-   * javasnoop
-   * JD-GUI
-   * OllyDbg
-   * smali
-   * Valgrind
-   * YARA
+   * [apktool](9. Reverse Engineering/apktool.md)
+   * [dex2jar](9. Reverse Engineering/dex2jar.md)
+   * [diStorm3](9. Reverse Engineering/diStorm3.md)
+   * [edb-debugger](9. Reverse Engineering/edb-debugger.md)
+   * [jad](9. Reverse Engineering/jad.md)
+   * [javasnoop](9. Reverse Engineering/javasnoop.md)
+   * [JD-GUI](9. Reverse Engineering/JD-GUI.md)
+   * [OllyDbg](9. Reverse Engineering/OllyDbg.md)
+   * [smali](9. Reverse Engineering/smali.md)
+   * [Valgrind](9. Reverse Engineering/Valgrind.md)
+   * [YARA](9. Reverse Engineering/YARA.md)
 * Sniffing & Spoofing
    * Burp Suite
    * DNSChef
