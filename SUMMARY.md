@@ -37,7 +37,7 @@
    * [diStorm3](3. Forensics Tools/diStorm3.md)
    * [Dumpzilla](3. Forensics Tools/Dumpzilla.md)
    * [extundelete](3. Forensics Tools/ExtunDelete.md)
-   * [Foremost](3. Forensics Tools/Foremost).md
+   * [Foremost](3. Forensics Tools/Foremost.md)
    * [Galleta](3. Forensics Tools/Galleta.md)
    * [Guymager](3. Forensics Tools/Guymager.md)
    * [iPhone Backup Analyzer](3. Forensics Tools/iPhone_Backup_Analyzer.md)
