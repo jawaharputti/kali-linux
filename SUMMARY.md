@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * Introduction
+   * Structure of the Book
 * [Introduction](Introduction.md)
 * Exploitation Tools
 * Forensics Tools
