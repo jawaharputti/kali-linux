@@ -12,7 +12,7 @@
    * [Backdoor Factory](Exploitation Tools/Backdoor_Factory.md)
    * [BeEF](Exploitation Tools/BeEF.md)
    * [cisco-auditing-tool](Exploitation Tools/cisco-auditing-tool.md)
-   * cisco-global-exploiter
+   * [cisco-global-exploiter](Exploitation Tools/Cisco-Global-Exploiter.md)
    * cisco-ocs
    * cisco-torch
    * Commix
