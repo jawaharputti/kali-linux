@@ -18,6 +18,7 @@
    * Commix
    * crackle
    * jboss-autopwn
+   * Linux Exploit Suggester
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
