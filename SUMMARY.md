@@ -13,6 +13,7 @@
    * BeEF
    * cisco-auditing-tool
    * cisco-global-exploiter
+   * cisco-ocs
 * Forensics Tools
 * Hardware Hacking
 * Information Gathering
