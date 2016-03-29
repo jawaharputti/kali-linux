@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * Introduction
    * Structure of the Book
+   * Hands-on Experiments
 * [Introduction](Introduction.md)
 * Exploitation Tools
 * Forensics Tools
