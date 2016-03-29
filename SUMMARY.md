@@ -39,6 +39,7 @@
    * extundelete
    * Foremost
    * Galleta
+   * Guymager
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
