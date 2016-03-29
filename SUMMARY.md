@@ -38,6 +38,7 @@
    * Dumpzilla
    * extundelete
    * Foremost
+   * Galleta
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
