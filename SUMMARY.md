@@ -27,6 +27,7 @@
    * [Yersinia](2. Exploitation Tools/Yersinia.md)
 * Forensics Tools
    * Binwalk
+   * bulk-extractor
 * Hardware Hacking
 * Information Gathering
 * Maintaining Access
