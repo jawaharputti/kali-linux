@@ -5,7 +5,7 @@
    * [Structure of the Book](Introduction/Structure_of_the_book.md)
    * Hands-on Experiments
    * [Topics Not Covered](Introduction/Topics_Not_Covered.md)
-   * Acknowledgments
+   * [Acknowledgments](Introduction/Acknowledgments.md)
    * Useful Links
 * Exploitation Tools
 * Forensics Tools
