@@ -22,7 +22,7 @@
    * [Maltego Teeth](2. Exploitation Tools/Maltego_Teeth.md)
    * [SET](2. Exploitation Tools/SET.md)
    * [ShellNoob](2. Exploitation Tools/ShellNoob.md)
-   * sqlmap
+   * [sqlmap](2. Exploitation Tools/SQLmap.md)
    * THC-IPV6
    * Yersinia
 * Forensics Tools
